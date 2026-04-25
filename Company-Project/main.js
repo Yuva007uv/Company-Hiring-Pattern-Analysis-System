@@ -32,7 +32,7 @@ const gridOptions = {
 // Initialize app
 async function init() {
     try {
-        const response = await fetch('/company_data.csv');
+        const response = await fetch('./company_data.csv');
         const csvText = await response.text();
         
         Papa.parse(csvText, {
