@@ -1,0 +1,301 @@
+Company,Year,Role,Experience,Salary_LPA,Skill,Domain,Hiring_Type
+Zoho,2018,Software Engineer,2,6.5,Java,Product,Campus
+TCS,2018,Systems Analyst,4,8.2,Python,IT Services,Lateral
+HCL,2018,Junior Developer,1,4.8,C++,IT Services,Campus
+Infosys,2018,Technology Analyst,3,9.1,Java,IT Services,Lateral
+Wipro,2018,Software Engineer,2,6.0,JavaScript,IT Services,Campus
+Accenture,2018,Associate,1,5.5,SQL,Consulting,Campus
+Zoho,2018,Senior Developer,5,14.0,Python,Product,Lateral
+TCS,2018,Project Lead,7,16.5,Java,IT Services,Lateral
+HCL,2018,Software Engineer,2,6.2,JavaScript,IT Services,Campus
+Infosys,2018,Senior Systems Engineer,4,10.5,Python,IT Services,Lateral
+Wipro,2018,Project Manager,8,22.0,Java,IT Services,Lateral
+Accenture,2018,Analyst,2,7.0,SQL,Consulting,Lateral
+Zoho,2018,QA Engineer,3,8.0,Selenium,Product,Lateral
+TCS,2018,Business Analyst,5,12.0,SQL,IT Services,Lateral
+HCL,2018,DevOps Engineer,4,11.5,Docker,IT Services,Lateral
+Infosys,2018,Junior Developer,1,4.5,C++,IT Services,Campus
+Wipro,2018,Data Analyst,3,9.5,Python,IT Services,Lateral
+Accenture,2018,Technology Consultant,6,18.0,Java,Consulting,Lateral
+Zoho,2018,Product Manager,7,20.0,Agile,Product,Lateral
+TCS,2018,Software Engineer,2,7.0,JavaScript,IT Services,Campus
+HCL,2018,QA Engineer,2,6.5,Selenium,IT Services,Campus
+Infosys,2018,Cloud Engineer,5,13.5,AWS,IT Services,Lateral
+Wipro,2018,Junior Analyst,1,4.2,SQL,IT Services,Campus
+Accenture,2018,Senior Analyst,4,11.0,Python,Consulting,Lateral
+Zoho,2019,Software Engineer,2,7.0,Java,Product,Campus
+TCS,2019,Systems Analyst,5,9.5,Python,IT Services,Lateral
+HCL,2019,Junior Developer,1,5.0,C++,IT Services,Campus
+Infosys,2019,Technology Analyst,3,9.8,Java,IT Services,Lateral
+Wipro,2019,Software Engineer,2,6.5,JavaScript,IT Services,Campus
+Accenture,2019,Associate,1,6.0,SQL,Consulting,Campus
+Zoho,2019,Senior Developer,6,16.0,Python,Product,Lateral
+TCS,2019,Project Lead,8,18.0,Java,IT Services,Lateral
+HCL,2019,Software Engineer,2,6.8,JavaScript,IT Services,Campus
+Infosys,2019,Senior Systems Engineer,4,11.5,Python,IT Services,Lateral
+Wipro,2019,Project Manager,8,23.0,Java,IT Services,Lateral
+Accenture,2019,Analyst,2,7.5,SQL,Consulting,Lateral
+Zoho,2019,QA Engineer,3,9.0,Selenium,Product,Lateral
+TCS,2019,Business Analyst,5,13.0,SQL,IT Services,Lateral
+HCL,2019,DevOps Engineer,4,12.5,Docker,IT Services,Lateral
+Infosys,2019,Junior Developer,1,5.0,C++,IT Services,Campus
+Wipro,2019,Data Analyst,3,10.5,Python,IT Services,Lateral
+Accenture,2019,Technology Consultant,6,19.0,Java,Consulting,Lateral
+Zoho,2019,Product Manager,8,22.0,Agile,Product,Lateral
+TCS,2019,Software Engineer,2,7.5,JavaScript,IT Services,Campus
+HCL,2019,QA Engineer,2,7.0,Selenium,IT Services,Campus
+Infosys,2019,Cloud Engineer,5,15.0,AWS,IT Services,Lateral
+Wipro,2019,Junior Analyst,1,4.5,SQL,IT Services,Campus
+Accenture,2019,Senior Analyst,4,12.5,Python,Consulting,Lateral
+Zoho,2019,ML Engineer,4,18.0,TensorFlow,Product,Lateral
+TCS,2019,Data Scientist,5,17.0,Python,IT Services,Lateral
+HCL,2019,Cloud Architect,7,24.0,AWS,IT Services,Lateral
+Infosys,2019,Senior Developer,5,14.0,Java,IT Services,Lateral
+Wipro,2019,Network Engineer,3,9.0,Cisco,IT Services,Lateral
+Accenture,2019,Manager,9,32.0,Agile,Consulting,Lateral
+Zoho,2020,Software Engineer,2,7.5,Java,Product,Campus
+TCS,2020,Systems Analyst,5,10.0,Python,IT Services,Lateral
+HCL,2020,Junior Developer,1,5.2,C++,IT Services,Campus
+Infosys,2020,Technology Analyst,3,10.0,Java,IT Services,Lateral
+Wipro,2020,Software Engineer,2,6.8,JavaScript,IT Services,Campus
+Accenture,2020,Associate,1,6.2,SQL,Consulting,Campus
+Zoho,2020,Senior Developer,6,17.5,Python,Product,Lateral
+TCS,2020,Project Lead,8,19.5,Java,IT Services,Lateral
+HCL,2020,Software Engineer,2,7.0,JavaScript,IT Services,Campus
+Infosys,2020,Senior Systems Engineer,4,12.0,Python,IT Services,Lateral
+Wipro,2020,Project Manager,9,24.0,Java,IT Services,Lateral
+Accenture,2020,Analyst,2,8.0,SQL,Consulting,Lateral
+Zoho,2020,QA Engineer,3,9.5,Selenium,Product,Lateral
+TCS,2020,Business Analyst,5,13.5,SQL,IT Services,Lateral
+HCL,2020,DevOps Engineer,4,13.5,Docker,IT Services,Lateral
+Infosys,2020,Junior Developer,1,5.2,C++,IT Services,Campus
+Wipro,2020,Data Analyst,3,11.0,Python,IT Services,Lateral
+Accenture,2020,Technology Consultant,6,20.0,Java,Consulting,Lateral
+Zoho,2020,Product Manager,8,24.0,Agile,Product,Lateral
+TCS,2020,Software Engineer,2,8.0,JavaScript,IT Services,Campus
+HCL,2020,QA Engineer,2,7.5,Selenium,IT Services,Campus
+Infosys,2020,Cloud Engineer,5,16.0,AWS,IT Services,Lateral
+Wipro,2020,Junior Analyst,1,4.8,SQL,IT Services,Campus
+Accenture,2020,Senior Analyst,4,13.5,Python,Consulting,Lateral
+Zoho,2020,ML Engineer,4,20.0,TensorFlow,Product,Lateral
+TCS,2020,Data Scientist,5,18.5,Python,IT Services,Lateral
+HCL,2020,Cloud Architect,7,25.5,AWS,IT Services,Lateral
+Infosys,2020,Senior Developer,5,15.0,Java,IT Services,Lateral
+Wipro,2020,Network Engineer,3,9.5,Cisco,IT Services,Lateral
+Accenture,2020,Manager,9,34.0,Agile,Consulting,Lateral
+Zoho,2020,Frontend Developer,3,11.0,React,Product,Lateral
+TCS,2020,Security Analyst,4,13.0,Cybersecurity,IT Services,Lateral
+HCL,2020,SAP Consultant,6,19.0,SAP,IT Services,Lateral
+Infosys,2020,Scrum Master,5,16.0,Agile,IT Services,Lateral
+Wipro,2020,Full Stack Developer,3,12.0,Node.js,IT Services,Lateral
+Accenture,2020,Data Engineer,4,15.5,Spark,Consulting,Lateral
+Zoho,2021,Software Engineer,2,9.0,Java,Product,Campus
+TCS,2021,Systems Analyst,5,11.0,Python,IT Services,Lateral
+HCL,2021,Junior Developer,1,5.8,C++,IT Services,Campus
+Infosys,2021,Technology Analyst,3,11.0,Java,IT Services,Lateral
+Wipro,2021,Software Engineer,2,7.5,JavaScript,IT Services,Campus
+Accenture,2021,Associate,1,7.0,SQL,Consulting,Campus
+Zoho,2021,Senior Developer,6,20.0,Python,Product,Lateral
+TCS,2021,Project Lead,8,21.0,Java,IT Services,Lateral
+HCL,2021,Software Engineer,2,8.0,JavaScript,IT Services,Campus
+Infosys,2021,Senior Systems Engineer,4,13.5,Python,IT Services,Lateral
+Wipro,2021,Project Manager,9,26.0,Java,IT Services,Lateral
+Accenture,2021,Analyst,2,9.0,SQL,Consulting,Lateral
+Zoho,2021,QA Engineer,3,10.5,Selenium,Product,Lateral
+TCS,2021,Business Analyst,5,14.5,SQL,IT Services,Lateral
+HCL,2021,DevOps Engineer,4,15.0,Docker,IT Services,Lateral
+Infosys,2021,Junior Developer,1,5.5,C++,IT Services,Campus
+Wipro,2021,Data Analyst,3,12.0,Python,IT Services,Lateral
+Accenture,2021,Technology Consultant,6,22.0,Java,Consulting,Lateral
+Zoho,2021,Product Manager,8,27.0,Agile,Product,Lateral
+TCS,2021,Software Engineer,2,9.0,JavaScript,IT Services,Campus
+HCL,2021,QA Engineer,2,8.5,Selenium,IT Services,Campus
+Infosys,2021,Cloud Engineer,5,18.0,AWS,IT Services,Lateral
+Wipro,2021,Junior Analyst,1,5.2,SQL,IT Services,Campus
+Accenture,2021,Senior Analyst,4,15.0,Python,Consulting,Lateral
+Zoho,2021,ML Engineer,4,24.0,TensorFlow,Product,Lateral
+TCS,2021,Data Scientist,5,21.0,Python,IT Services,Lateral
+HCL,2021,Cloud Architect,7,28.0,AWS,IT Services,Lateral
+Infosys,2021,Senior Developer,5,17.0,Java,IT Services,Lateral
+Wipro,2021,Network Engineer,3,10.5,Cisco,IT Services,Lateral
+Accenture,2021,Manager,9,38.0,Agile,Consulting,Lateral
+Zoho,2021,Frontend Developer,3,13.0,React,Product,Lateral
+TCS,2021,Security Analyst,4,15.0,Cybersecurity,IT Services,Lateral
+HCL,2021,SAP Consultant,6,21.0,SAP,IT Services,Lateral
+Infosys,2021,Scrum Master,5,18.0,Agile,IT Services,Lateral
+Wipro,2021,Full Stack Developer,3,14.0,Node.js,IT Services,Lateral
+Accenture,2021,Data Engineer,4,18.0,Spark,Consulting,Lateral
+Zoho,2021,Android Developer,3,14.0,Kotlin,Product,Lateral
+TCS,2021,iOS Developer,4,16.5,Swift,IT Services,Lateral
+HCL,2021,BI Developer,5,17.0,Tableau,IT Services,Lateral
+Infosys,2021,ETL Developer,4,14.0,Informatica,IT Services,Lateral
+Wipro,2021,RPA Developer,3,13.0,UiPath,IT Services,Lateral
+Accenture,2021,AI Engineer,5,28.0,Python,Consulting,Lateral
+Zoho,2022,Software Engineer,2,10.5,Java,Product,Campus
+TCS,2022,Systems Analyst,5,12.5,Python,IT Services,Lateral
+HCL,2022,Junior Developer,1,6.5,C++,IT Services,Campus
+Infosys,2022,Technology Analyst,3,12.5,Java,IT Services,Lateral
+Wipro,2022,Software Engineer,2,8.5,JavaScript,IT Services,Campus
+Accenture,2022,Associate,1,8.0,SQL,Consulting,Campus
+Zoho,2022,Senior Developer,6,23.0,Python,Product,Lateral
+TCS,2022,Project Lead,8,24.0,Java,IT Services,Lateral
+HCL,2022,Software Engineer,2,9.5,JavaScript,IT Services,Campus
+Infosys,2022,Senior Systems Engineer,4,15.5,Python,IT Services,Lateral
+Wipro,2022,Project Manager,9,29.0,Java,IT Services,Lateral
+Accenture,2022,Analyst,2,10.5,SQL,Consulting,Lateral
+Zoho,2022,QA Engineer,3,12.0,Selenium,Product,Lateral
+TCS,2022,Business Analyst,5,16.5,SQL,IT Services,Lateral
+HCL,2022,DevOps Engineer,4,17.5,Docker,IT Services,Lateral
+Infosys,2022,Junior Developer,1,6.5,C++,IT Services,Campus
+Wipro,2022,Data Analyst,3,14.0,Python,IT Services,Lateral
+Accenture,2022,Technology Consultant,6,25.0,Java,Consulting,Lateral
+Zoho,2022,Product Manager,8,32.0,Agile,Product,Lateral
+TCS,2022,Software Engineer,2,10.5,JavaScript,IT Services,Campus
+HCL,2022,QA Engineer,2,10.0,Selenium,IT Services,Campus
+Infosys,2022,Cloud Engineer,5,22.0,AWS,IT Services,Lateral
+Wipro,2022,Junior Analyst,1,6.0,SQL,IT Services,Campus
+Accenture,2022,Senior Analyst,4,17.5,Python,Consulting,Lateral
+Zoho,2022,ML Engineer,4,28.0,TensorFlow,Product,Lateral
+TCS,2022,Data Scientist,5,25.0,Python,IT Services,Lateral
+HCL,2022,Cloud Architect,7,32.0,AWS,IT Services,Lateral
+Infosys,2022,Senior Developer,5,20.0,Java,IT Services,Lateral
+Wipro,2022,Network Engineer,3,12.0,Cisco,IT Services,Lateral
+Accenture,2022,Manager,9,44.0,Agile,Consulting,Lateral
+Zoho,2022,Frontend Developer,3,16.0,React,Product,Lateral
+TCS,2022,Security Analyst,4,18.0,Cybersecurity,IT Services,Lateral
+HCL,2022,SAP Consultant,6,24.0,SAP,IT Services,Lateral
+Infosys,2022,Scrum Master,5,20.0,Agile,IT Services,Lateral
+Wipro,2022,Full Stack Developer,3,16.0,Node.js,IT Services,Lateral
+Accenture,2022,Data Engineer,4,22.0,Spark,Consulting,Lateral
+Zoho,2022,Android Developer,3,17.0,Kotlin,Product,Lateral
+TCS,2022,iOS Developer,4,19.0,Swift,IT Services,Lateral
+HCL,2022,BI Developer,5,20.0,Tableau,IT Services,Lateral
+Infosys,2022,ETL Developer,4,16.5,Informatica,IT Services,Lateral
+Wipro,2022,RPA Developer,3,15.0,UiPath,IT Services,Lateral
+Accenture,2022,AI Engineer,5,34.0,Python,Consulting,Lateral
+Zoho,2022,Backend Developer,4,18.0,Go,Product,Lateral
+TCS,2022,Platform Engineer,5,22.0,Kubernetes,IT Services,Lateral
+HCL,2022,Site Reliability Engineer,6,27.0,Linux,IT Services,Lateral
+Infosys,2022,Blockchain Developer,4,24.0,Solidity,IT Services,Lateral
+Wipro,2022,Solution Architect,8,35.0,AWS,IT Services,Lateral
+Accenture,2022,UX Designer,3,15.0,Figma,Consulting,Lateral
+Zoho,2023,Software Engineer,2,12.0,Java,Product,Campus
+TCS,2023,Systems Analyst,5,13.5,Python,IT Services,Lateral
+HCL,2023,Junior Developer,1,7.5,C++,IT Services,Campus
+Infosys,2023,Technology Analyst,3,14.0,Java,IT Services,Lateral
+Wipro,2023,Software Engineer,2,9.5,JavaScript,IT Services,Campus
+Accenture,2023,Associate,1,9.0,SQL,Consulting,Campus
+Zoho,2023,Senior Developer,6,26.0,Python,Product,Lateral
+TCS,2023,Project Lead,8,27.0,Java,IT Services,Lateral
+HCL,2023,Software Engineer,2,10.5,JavaScript,IT Services,Campus
+Infosys,2023,Senior Systems Engineer,4,17.5,Python,IT Services,Lateral
+Wipro,2023,Project Manager,9,32.0,Java,IT Services,Lateral
+Accenture,2023,Analyst,2,12.0,SQL,Consulting,Lateral
+Zoho,2023,QA Engineer,3,13.5,Selenium,Product,Lateral
+TCS,2023,Business Analyst,5,18.0,SQL,IT Services,Lateral
+HCL,2023,DevOps Engineer,4,20.0,Docker,IT Services,Lateral
+Infosys,2023,Junior Developer,1,7.0,C++,IT Services,Campus
+Wipro,2023,Data Analyst,3,15.5,Python,IT Services,Lateral
+Accenture,2023,Technology Consultant,6,28.0,Java,Consulting,Lateral
+Zoho,2023,Product Manager,8,36.0,Agile,Product,Lateral
+TCS,2023,Software Engineer,2,12.0,JavaScript,IT Services,Campus
+HCL,2023,QA Engineer,2,11.5,Selenium,IT Services,Campus
+Infosys,2023,Cloud Engineer,5,25.0,AWS,IT Services,Lateral
+Wipro,2023,Junior Analyst,1,6.8,SQL,IT Services,Campus
+Accenture,2023,Senior Analyst,4,20.0,Python,Consulting,Lateral
+Zoho,2023,ML Engineer,4,32.0,TensorFlow,Product,Lateral
+TCS,2023,Data Scientist,5,28.0,Python,IT Services,Lateral
+HCL,2023,Cloud Architect,7,36.0,AWS,IT Services,Lateral
+Infosys,2023,Senior Developer,5,22.0,Java,IT Services,Lateral
+Wipro,2023,Network Engineer,3,13.5,Cisco,IT Services,Lateral
+Accenture,2023,Manager,9,50.0,Agile,Consulting,Lateral
+Zoho,2023,Frontend Developer,3,18.0,React,Product,Lateral
+TCS,2023,Security Analyst,4,21.0,Cybersecurity,IT Services,Lateral
+HCL,2023,SAP Consultant,6,27.0,SAP,IT Services,Lateral
+Infosys,2023,Scrum Master,5,22.0,Agile,IT Services,Lateral
+Wipro,2023,Full Stack Developer,3,18.0,Node.js,IT Services,Lateral
+Accenture,2023,Data Engineer,4,26.0,Spark,Consulting,Lateral
+Zoho,2023,Android Developer,3,20.0,Kotlin,Product,Lateral
+TCS,2023,iOS Developer,4,22.0,Swift,IT Services,Lateral
+HCL,2023,BI Developer,5,23.0,Tableau,IT Services,Lateral
+Infosys,2023,ETL Developer,4,18.0,Informatica,IT Services,Lateral
+Wipro,2023,RPA Developer,3,17.0,UiPath,IT Services,Lateral
+Accenture,2023,AI Engineer,5,40.0,Python,Consulting,Lateral
+Zoho,2023,Backend Developer,4,22.0,Go,Product,Lateral
+TCS,2023,Platform Engineer,5,26.0,Kubernetes,IT Services,Lateral
+HCL,2023,Site Reliability Engineer,6,31.0,Linux,IT Services,Lateral
+Infosys,2023,Blockchain Developer,4,27.0,Solidity,IT Services,Lateral
+Wipro,2023,Solution Architect,8,40.0,AWS,IT Services,Lateral
+Accenture,2023,UX Designer,3,18.0,Figma,Consulting,Lateral
+Zoho,2023,GenAI Engineer,3,28.0,LLM,Product,Lateral
+TCS,2023,Prompt Engineer,2,18.0,LLM,IT Services,Lateral
+HCL,2023,MLOps Engineer,4,26.0,Python,IT Services,Lateral
+Infosys,2023,Cybersecurity Analyst,5,24.0,SIEM,IT Services,Lateral
+Wipro,2023,Cloud Security Engineer,4,23.0,AWS,IT Services,Lateral
+Accenture,2023,Director,12,75.0,Strategy,Consulting,Lateral
+Zoho,2024,Software Engineer,2,14.0,Java,Product,Campus
+TCS,2024,Systems Analyst,5,15.0,Python,IT Services,Lateral
+HCL,2024,Junior Developer,1,8.5,C++,IT Services,Campus
+Infosys,2024,Technology Analyst,3,15.5,Java,IT Services,Lateral
+Wipro,2024,Software Engineer,2,11.0,JavaScript,IT Services,Campus
+Accenture,2024,Associate,1,10.5,SQL,Consulting,Campus
+Zoho,2024,Senior Developer,6,30.0,Python,Product,Lateral
+TCS,2024,Project Lead,8,30.0,Java,IT Services,Lateral
+HCL,2024,Software Engineer,2,12.0,JavaScript,IT Services,Campus
+Infosys,2024,Senior Systems Engineer,4,19.5,Python,IT Services,Lateral
+Wipro,2024,Project Manager,9,35.0,Java,IT Services,Lateral
+Accenture,2024,Analyst,2,13.5,SQL,Consulting,Lateral
+Zoho,2024,QA Engineer,3,15.0,Selenium,Product,Lateral
+TCS,2024,Business Analyst,5,20.0,SQL,IT Services,Lateral
+HCL,2024,DevOps Engineer,4,22.0,Docker,IT Services,Lateral
+Infosys,2024,Junior Developer,1,8.0,C++,IT Services,Campus
+Wipro,2024,Data Analyst,3,17.0,Python,IT Services,Lateral
+Accenture,2024,Technology Consultant,6,31.0,Java,Consulting,Lateral
+Zoho,2024,Product Manager,8,42.0,Agile,Product,Lateral
+TCS,2024,Software Engineer,2,13.5,JavaScript,IT Services,Campus
+HCL,2024,QA Engineer,2,13.0,Selenium,IT Services,Campus
+Infosys,2024,Cloud Engineer,5,28.0,AWS,IT Services,Lateral
+Wipro,2024,Junior Analyst,1,7.5,SQL,IT Services,Campus
+Accenture,2024,Senior Analyst,4,22.0,Python,Consulting,Lateral
+Zoho,2024,ML Engineer,4,38.0,TensorFlow,Product,Lateral
+TCS,2024,Data Scientist,5,32.0,Python,IT Services,Lateral
+HCL,2024,Cloud Architect,7,40.0,AWS,IT Services,Lateral
+Infosys,2024,Senior Developer,5,25.0,Java,IT Services,Lateral
+Wipro,2024,Network Engineer,3,15.0,Cisco,IT Services,Lateral
+Accenture,2024,Manager,9,56.0,Agile,Consulting,Lateral
+Zoho,2024,Frontend Developer,3,21.0,React,Product,Lateral
+TCS,2024,Security Analyst,4,24.0,Cybersecurity,IT Services,Lateral
+HCL,2024,SAP Consultant,6,30.0,SAP,IT Services,Lateral
+Infosys,2024,Scrum Master,5,25.0,Agile,IT Services,Lateral
+Wipro,2024,Full Stack Developer,3,21.0,Node.js,IT Services,Lateral
+Accenture,2024,Data Engineer,4,30.0,Spark,Consulting,Lateral
+Zoho,2024,Android Developer,3,23.0,Kotlin,Product,Lateral
+TCS,2024,iOS Developer,4,25.0,Swift,IT Services,Lateral
+HCL,2024,BI Developer,5,26.0,Tableau,IT Services,Lateral
+Infosys,2024,ETL Developer,4,20.0,Informatica,IT Services,Lateral
+Wipro,2024,RPA Developer,3,19.0,UiPath,IT Services,Lateral
+Accenture,2024,AI Engineer,5,48.0,Python,Consulting,Lateral
+Zoho,2024,Backend Developer,4,26.0,Go,Product,Lateral
+TCS,2024,Platform Engineer,5,30.0,Kubernetes,IT Services,Lateral
+HCL,2024,Site Reliability Engineer,6,35.0,Linux,IT Services,Lateral
+Infosys,2024,Blockchain Developer,4,30.0,Solidity,IT Services,Lateral
+Wipro,2024,Solution Architect,8,45.0,AWS,IT Services,Lateral
+Accenture,2024,UX Designer,3,21.0,Figma,Consulting,Lateral
+Zoho,2024,GenAI Engineer,3,34.0,LLM,Product,Lateral
+TCS,2024,Prompt Engineer,2,22.0,LLM,IT Services,Lateral
+HCL,2024,MLOps Engineer,4,30.0,Python,IT Services,Lateral
+Infosys,2024,Cybersecurity Analyst,5,27.0,SIEM,IT Services,Lateral
+Wipro,2024,Cloud Security Engineer,4,26.0,AWS,IT Services,Lateral
+Accenture,2024,Director,12,85.0,Strategy,Consulting,Lateral
+Zoho,2024,VP Engineering,14,95.0,Leadership,Product,Lateral
+TCS,2024,Delivery Manager,11,55.0,Agile,IT Services,Lateral
+HCL,2024,Principal Architect,10,60.0,AWS,IT Services,Lateral
+Infosys,2024,Senior Manager,10,58.0,Java,IT Services,Lateral
+Wipro,2024,Associate VP,12,70.0,Strategy,IT Services,Lateral
+Zoho,2018,Backend Developer,3,9.0,Go,Product,Lateral
+TCS,2019,Platform Engineer,4,11.0,Kubernetes,IT Services,Lateral
+HCL,2020,Site Reliability Engineer,5,16.0,Linux,IT Services,Lateral
+Infosys,2021,Android Developer,2,12.0,Kotlin,IT Services,Campus
+Wipro,2022,GenAI Engineer,3,22.0,LLM,IT Services,Lateral
+Accenture,2023,ML Engineer,6,45.0,TensorFlow,Consulting,Lateral
+TCS,2024,Cybersecurity Manager,10,52.0,SIEM,IT Services,Lateral
